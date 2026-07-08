@@ -16,7 +16,7 @@ public class Duplicate {
    }
 
     public static void main(String[] args) {
-        int nums[] = { 4, 7, 8, 5, 2, 6, 9 ,5};
+        int nums[] = { 4,6,8,3,4,5};
         System.out.println(containsDuplicate(nums));
     }
 }
